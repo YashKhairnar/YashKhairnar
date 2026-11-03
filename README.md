@@ -16,13 +16,13 @@ Previously, I worked on industrial computer vision, predictive maintenance, auto
 
 ## Featured Work
 
-### 🚗 Echo
+###  Echo
 Communication-efficient world models for connected autonomous driving.
 
-### 🧠 LEAP
+###  LEAP
 An AI research project exploring learning, reasoning, and agentic behavior.
 
-### 📚 Open Paper Lab
+### Open Paper Lab
 Implementations and experiments based on research papers I study.
 
 ## Tech Stack
