@@ -15,10 +15,10 @@ MSCS student at San José State University, building intelligent systems that ca
 
 ## What I Work On
 
-- **🧠 LLMs:** training, evaluation, and efficient inference of large language models; RAG systems
-- **🎮 Reinforcement Learning:** model-based planning, world models, and intelligent agents
-- **👁️ Computer Vision:** industrial inspection, detection, and multimodal learning
-- **⚡ CUDA & GPU Systems:** GPU programming and inference optimization with TensorRT and ONNX
+- **LLMs:** training, evaluation, and efficient inference of large language models; RAG systems
+- **Reinforcement Learning:** model-based planning, world models, and intelligent agents
+- **Computer Vision:** industrial inspection, detection, and multimodal learning
+- **CUDA & GPU Systems:** GPU programming and inference optimization with TensorRT and ONNX
 
 Previously, I worked on industrial computer vision, predictive maintenance, automated inspection, and inference optimization using ONNX and TensorRT.
 
