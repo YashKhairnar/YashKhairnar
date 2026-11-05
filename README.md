@@ -24,10 +24,10 @@ Previously, I worked on industrial computer vision, predictive maintenance, auto
 
 ## Featured Work
 
-###  Echo
+### Echo
 Communication-efficient world models for connected autonomous driving.
 
-###  LEAP
+### LEAP
 An AI research project exploring learning, reasoning, and agentic behavior.
 
 ### Open Paper Lab
@@ -37,7 +37,6 @@ Implementations and experiments based on research papers I study.
 
 [![Tech stack](https://skillicons.dev/icons?i=py,cpp,pytorch,opencv,docker,fastapi,linux,git)](https://skillicons.dev)
 
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![Hugging Face Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
