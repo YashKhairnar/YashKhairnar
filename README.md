@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:76B900,50:0A66C2,100:5C3EE8&height=220&section=header&text=Yash%20Khairnar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=ML%20Engineer%20%C2%B7%20MSCS%20%40%20SJSU&descSize=20&descAlignY=55" alt="Yash Khairnar banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:76B900,50:0A66C2,100:5C3EE8&height=220&section=header&text=Yash%20Khairnar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Engineer%20%C2%B7%20MSCS%20%40%20SJSU'27&descSize=20&descAlignY=55" alt="Yash Khairnar banner" width="100%"/>
 </p>
 
 ## Hi, I'm Yash 👋
