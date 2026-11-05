@@ -41,14 +41,6 @@ Implementations and experiments based on research papers I study.
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![Hugging Face Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-## Contribution City
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-</picture>
-
 ## Currently
 
 - Pursuing an MSCS at San José State University
