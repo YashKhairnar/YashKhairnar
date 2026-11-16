@@ -24,14 +24,17 @@ Previously, I worked on industrial computer vision, predictive maintenance, auto
 
 ## Featured Work
 
-### Echo
+### [Echo](https://github.com/YashKhairnar/Echo)
 Communication-efficient world models for connected autonomous driving.
 
-### LEAP
+### [LEAP](https://github.com/YashKhairnar/LEAP)
 An AI research project exploring learning, reasoning, and agentic behavior.
 
-### Open Paper Lab
+### [Open Paper Lab](https://github.com/YashKhairnar/open-paper-lab)
 Implementations and experiments based on research papers I study.
+
+### [VLM Zoom Agent](https://github.com/YashKhairnar/vlm-zoom-agent)
+A vision-language model answers questions about tiny details in high-resolution photos by calling a zoom(x1, y1, x2, y2) tool, looking at the crop, and zooming again if it needs to. 
 
 ## Tech Stack
 
